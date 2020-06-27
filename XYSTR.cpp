@@ -2,6 +2,7 @@
 #include<bits/stdc++.h>
 
 #define __speed() ios::sync_with_stdio(false), cin.tie(0), cout.tie(0);
+#define tt int t;for(cin>>t; t--; )
 #define endl "\n"
 
 using namespace std;
